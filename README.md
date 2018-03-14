@@ -1,6 +1,6 @@
-#SSASAMODB  
+# SSASAMODB  
 
-##Project Description
+## Project Description
 SSAS AMO DB is a database version of AMO which helps to view the metadata stored in the SSAS cube. The Metadata will be loaded into a SQL Server database from the SSAS cube using AMO using SSIS package. From that database user can generate reports for the SSAS metadata. A database diagram has been enclosed in the download for your reference
 
 This database stores the below SSAS objects and their properties
