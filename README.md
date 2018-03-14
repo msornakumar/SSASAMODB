@@ -45,3 +45,7 @@ How to install and run this app
 3. Run the SP scripts from Scripts\Sps.  
 4. Open the SSIS package from SSASAMODB folder.  
 5. Configure the parameters as mentioned above and run the SSIS package.  
+
+**NOTE : This project is migrated from code plex https://archive.codeplex.com/?p=ssasamodb  
+         This project has been enhanced to work in Visual Studion 2015 and SQL Server 2016.**
+
